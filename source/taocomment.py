@@ -286,8 +286,9 @@ def tmall(returncomment,max=99):
 		# print(tjson)
 
 		# JSON解码
+		print(tjson)
 		tjson=json.loads(tjson)
-		# print(tjson)
+
 
 		# 失败证明没有评论
 		try:
@@ -330,7 +331,7 @@ if __name__ == '__main__':
 	begin()
 
 	# 密码登陆
-	password()
+	# password()
 
 	# 抓取时间
 	today=time.strftime('%Y%m%d', time.localtime())
