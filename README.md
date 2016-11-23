@@ -1,6 +1,7 @@
 # 说明
 由于Github 打包的exe某些文件上传被.gitignore了，所以不提供windows二进制包
 
+弃用！只能手动复制cookie进subcookie!!!!!!!!!!!!!!!废弃！！
 
 <img src='https://raw.githubusercontent.com/hunterhug/taobaocomment/master/seeme0.jpg' />
 
