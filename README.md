@@ -31,6 +31,10 @@ sudo pip3 install xlsxwriter
 pip3 install cx_Freeze-4.3.4-cp35-none-win_amd64.whl
 ```
 
+下载PIL
+
+Pillow‑3.4.2‑cp34‑cp34m‑win32.whl 改名 Pillow‑3.4.2‑cp34‑none‑win32.whl (装不了就改成none)
+
  转到源代码文件夹
 
 ```
