@@ -23,6 +23,8 @@
 ```
 sudo pip3 install pymysql
 sudo pip3 install xlsxwriter
+openpyxl
+beautifulsoap4
 ```
 
 2.打包windows二进制
