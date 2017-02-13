@@ -18,8 +18,8 @@
 # 使用
 安装python3 https://www.python.org/downloads/  然后设置环境变量设置 
 
-1.安装模块请使用
-
+1.安装模块请使用    
+依赖模块有pymysql, xlswriter, bs4 在window下安装可以找其对应的whl文件。   
 ```
 sudo pip3 install pymysql
 sudo pip3 install xlsxwriter
